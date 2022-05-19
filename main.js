@@ -8,7 +8,7 @@ function myRandom(num) {
 //     body
 // }
 
-for (let i = 0; i < 3; i++) {
+for (let i = 0; i < 7; i++) {
     let num1 = myRandom(20)
     let num2 = myRandom(10)
     let sym = myRandom(4) /* 1 2 3 4 */
